@@ -1,2 +1,52 @@
-# Polygraph-Audio-Sync
-Automatic synchronization method for audio and polygraph recordings in sleep studies.
+# Algorithm for Automatic Synchronization of Audio and Polygraph Recordings in Sleep Studies
+
+This repository contains an algorithm for automatically synchronizing audio and polygraph recordings, specifically designed for applications in sleep studies, such as the analysis of obstructive sleep apnea (OSA). It also includes a synchronized dataset of audio and polygraph recordings, available via [Zenodo](https://zenodo.org/records/14096541?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImYwNGE2MGI3LWM4N2ItNDkxYi05MDc5LTg3YmNiMjBkMGYyZCIsImRhdGEiOnt9LCJyYW5kb20iOiJhMzcyYTA3YTRmMzU0ZWE5MGE0ODQxYmU4ZDNlNmE1NCJ9.KlGkiCsCm1Yf8Rf75_cNztcOTlHkWH5YjEYOlsNVpvAvilFeRZnE9mXsS71pOjonTxeqKYDQzKxwuB00sfaWvQ). The implementation of the synchronization algorithm can be found in the `CODE/` folder.
+
+## Table of Contents
+- [Overview](#overview)
+- [Synchronized Dataset](#synchronized-dataset)
+- [Citation](#citation)
+- [License](#license)
+- [Contact](#contact)
+
+---
+
+## Overview
+
+This repository provides an algorithm for synchronizing audio and polygraph signals, ensuring precise alignment for subsequent analysis in sleep studies. Through the use of this algorithm, a database of synchronized audio and polygraph recordings has been created, which is briefly detailed in the [Synchronized Dataset](#synchronized-dataset) section.
+
+---
+
+## Synchronized Dataset
+
+The synchronized dataset includes:
+- Audio recordings in `.wav` format.
+- Polygraph signals in `.csv` format.
+- Manual annotations for polygraph events.
+
+The dataset is publicly available in its [Zenodo repository](https://zenodo.org/records/14096541?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImYwNGE2MGI3LWM4N2ItNDkxYi05MDc5LTg3YmNiMjBkMGYyZCIsImRhdGEiOnt9LCJyYW5kb20iOiJhMzcyYTA3YTRmMzU0ZWE5MGE0ODQxYmU4ZDNlNmE1NCJ9.KlGkiCsCm1Yf8Rf75_cNztcOTlHkWH5YjEYOlsNVpvAvilFeRZnE9mXsS71pOjonTxeqKYDQzKxwuB00sfaWvQ).
+
+---
+
+## Citation
+
+If you use this repository or the associated dataset in your research, please cite it as follows:
+
+*"Polygraph and Audio Synchronization Applied to Apnea Event Analysis Based on Non-negative Matrix Factorization."*
+
+---
+
+## License
+
+This repository is licensed under the MIT License for the algorithm and the [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/) for the dataset. See the `LICENSE` file for full details.
+
+---
+
+## Contact
+
+For inquiries or further information, please contact:
+
+Francisco David González Martínez 
+Email: fdgonzal@ujaen.es  
+
+---
