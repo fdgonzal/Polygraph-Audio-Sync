@@ -46,7 +46,6 @@ This repository is licensed under the MIT License for the algorithm and the [CC 
 
 For inquiries or further information, please contact:
 
-Francisco David González Martínez 
-Email: fdgonzal@ujaen.es  
+Francisco David González Martínez (fdgonzal@ujaen.es).  
 
 ---
