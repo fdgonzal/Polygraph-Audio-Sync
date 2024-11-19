@@ -32,7 +32,8 @@ The dataset is available on request in its [Zenodo repository](https://zenodo.or
 
 If you use this repository or the associated dataset in your research, please cite it as follows:
 
-González-Martínez, F. D., Torre-Cruz, J., Carabias-Orti, J. J., Canadas-Quesada, F. J., Ranilla, J., & Lamrini H. Laarbi, L. (2024). Polygraph and Audio Synchronization applied to Apnea Event Analysis based on Non-negative Matrix Factorization. *Multimedia Tools and Applications*. Status - Under Review.  
+González-Martínez, F. D., Torre-Cruz, J., Carabias-Orti, J. J., Canadas-Quesada, F. J., Salvador-Navarro, A. A., Ranilla, J., & Lamrini H. Laarbi, L. (2024). "Polygraph and Audio Synchronization applied to Apnea Event Analysis based on Non-negative Matrix Factorization". *Multimedia Tools and Applications*. Status - Under Review.  
+ 
 
 
 ---
