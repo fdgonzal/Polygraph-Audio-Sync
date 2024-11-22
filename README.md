@@ -1,6 +1,6 @@
 # Algorithm for Automatic Synchronization of Audio and Polygraph Recordings in Sleep Studies
 
-This repository contains an algorithm for automatically synchronizing audio and polygraph recordings, specifically designed for applications in sleep studies, such as the analysis of obstructive sleep apnea (OSA). It also includes a synchronized dataset of audio and polygraph recordings, available on request via [Zenodo](https://zenodo.org/records/14096541?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImYwNGE2MGI3LWM4N2ItNDkxYi05MDc5LTg3YmNiMjBkMGYyZCIsImRhdGEiOnt9LCJyYW5kb20iOiJhMzcyYTA3YTRmMzU0ZWE5MGE0ODQxYmU4ZDNlNmE1NCJ9.KlGkiCsCm1Yf8Rf75_cNztcOTlHkWH5YjEYOlsNVpvAvilFeRZnE9mXsS71pOjonTxeqKYDQzKxwuB00sfaWvQ). The implementation of the synchronization algorithm can be found in the `CODE/` folder.
+This repository contains an algorithm for automatically synchronizing audio and polygraph recordings, specifically designed for applications in sleep studies, such as the analysis of obstructive sleep apnea (OSA). It also includes a synchronized dataset of audio and polygraph recordings, available on request via [Zenodo](https://doi.org/10.5281/zenodo.14096541). The implementation of the synchronization algorithm can be found in the `CODE/` folder.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -24,7 +24,7 @@ The synchronized dataset includes:
 - Polygraph signals in `.csv` format.
 - Manual annotations for polygraph events.
 
-The dataset is available on request in its [Zenodo repository](https://zenodo.org/records/14096541?preview=1&token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6ImYwNGE2MGI3LWM4N2ItNDkxYi05MDc5LTg3YmNiMjBkMGYyZCIsImRhdGEiOnt9LCJyYW5kb20iOiJhMzcyYTA3YTRmMzU0ZWE5MGE0ODQxYmU4ZDNlNmE1NCJ9.KlGkiCsCm1Yf8Rf75_cNztcOTlHkWH5YjEYOlsNVpvAvilFeRZnE9mXsS71pOjonTxeqKYDQzKxwuB00sfaWvQ).
+The dataset is available on request in its [Zenodo repository](https://doi.org/10.5281/zenodo.14096541).
 
 ---
 
